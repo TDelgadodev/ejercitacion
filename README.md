@@ -1,4 +1,4 @@
-#Ejercitacion de Git & Github
-##Clase25
+# Ejercitacion de Git & Github
+## Clase25
 
 Mi nombre es thiago
