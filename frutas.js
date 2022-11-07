@@ -1,1 +1,1 @@
-const frutas = "manzana"
+const frutas = "manzana","naranja"
